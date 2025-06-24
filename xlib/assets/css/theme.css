@@ -1,0 +1,19 @@
+:root {
+  --white: #fff;
+
+  --primary: #2d76f8;
+  --on-primary: #fff;
+
+  --fc: #616161;
+  --fc-w: #c1c1c1;
+  --fc-s: #747474;
+
+  --bc-body: #fbfcff;
+  --bc-default: #f4f6fa;
+  --bc-inset: #2a2d3e;
+  --bg-box: var(--white);
+
+  --lc-s: #c8dbfd;
+  --lc-w: #eaf1fe;
+  --lc: #dbdbdb;
+}

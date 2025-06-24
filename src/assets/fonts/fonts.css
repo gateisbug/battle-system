@@ -1,0 +1,37 @@
+/*@font-face {*/
+/*  font-family: 'SpoqaHanSansNeo';*/
+/*  font-weight: 700;*/
+/*  font-style: normal;*/
+/*  font-display: swap;*/
+/*  src:*/
+/*    local('SpoqaHanSansNeo'),*/
+/*    url('./SpoqaHanSansNeo-Bold.woff2') format('woff2-variations');*/
+/*}*/
+/*@font-face {*/
+/*  font-family: 'SpoqaHanSansNeo';*/
+/*  font-weight: 500;*/
+/*  font-style: normal;*/
+/*  font-display: swap;*/
+/*  src:*/
+/*    local('SpoqaHanSansNeo'),*/
+/*    url('./SpoqaHanSansNeo-Medium.woff2') format('woff2-variations');*/
+/*}*/
+/*@font-face {*/
+/*  font-family: 'SpoqaHanSansNeo';*/
+/*  font-weight: 400;*/
+/*  font-style: normal;*/
+/*  font-display: swap;*/
+/*  src:*/
+/*    local('SpoqaHanSansNeo'),*/
+/*    url('./SpoqaHanSansNeo-Regular.woff2') format('woff2-variations');*/
+/*}*/
+
+/*@font-face {*/
+/*  font-family: 'Pretendard Variable';*/
+/*  font-weight: 45 920;*/
+/*  font-style: normal;*/
+/*  font-display: swap;*/
+/*  src:*/
+/*    local('Pretendard Variable'),*/
+/*    url('./PretendardVariable.woff2') format('woff2-variations');*/
+/*}*/

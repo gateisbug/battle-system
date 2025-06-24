@@ -1,0 +1,19 @@
+:root {
+  --white: #fff;
+
+  --primary: #2d76f8;
+  --on-primary: #fff;
+
+  --fg: #616161;
+  --fg-w: #c1c1c1;
+  --fg-s: #747474;
+
+  --bg-body: #fbfcff;
+  --bg-default: #f4f6fa;
+  --bg-inset: #2a2d3e;
+  --bg-box: var(--white);
+
+  --lc-s: #c8dbfd;
+  --lc-w: #eaf1fe;
+  --lc: #dbdbdb;
+}
